@@ -1,0 +1,315 @@
+{
+  "RECORDINFO": {
+    "RECORDKEY": "b3349130",
+    "CREATEDATE": "26.06.2014",
+    "LASTUPDATEDATE": "01.09.2014",
+    "REVISIONS": "5",
+    "PREVUPDATEDATE": "01.09.2014"
+  },
+  "TYPEINFO": {
+    "BIBLIOGRAPHIC": [
+      {
+        "FIXLABEL": "LANG",
+        "FIXNUMBER": "24",
+        "FIXVALUE": "eng"
+      },
+      {
+        "FIXLABEL": "SKIP",
+        "FIXNUMBER": "25",
+        "FIXVALUE": "0"
+      },
+      {
+        "FIXLABEL": "LOCATION",
+        "FIXNUMBER": "26",
+        "FIXVALUE": "multi"
+      },
+      {
+        "FIXLABEL": "COPIES",
+        "FIXNUMBER": "27",
+        "FIXVALUE": "1"
+      },
+      {
+        "FIXLABEL": "CAT DATE",
+        "FIXNUMBER": "28",
+        "FIXVALUE": "19.04.2005"
+      },
+      {
+        "FIXLABEL": "BIB LVL",
+        "FIXNUMBER": "29",
+        "FIXVALUE": "m"
+      },
+      {
+        "FIXLABEL": "MAT TYPE",
+        "FIXNUMBER": "30",
+        "FIXVALUE": "a"
+      },
+      {
+        "FIXLABEL": "BCODE3",
+        "FIXNUMBER": "31",
+        "FIXVALUE": "-"
+      },
+      {
+        "FIXLABEL": "COUNTRY",
+        "FIXNUMBER": "89",
+        "FIXVALUE": "xxu"
+      },
+      {
+        "FIXLABEL": "MARCTYPE",
+        "FIXNUMBER": "107",
+        "FIXVALUE": []
+      }
+    ]
+  },
+  "VARFLD": [
+    {
+      "HEADER": {
+        "TAG": "ISBN/ISSN",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "020",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": {
+        "SUBFIELDINDICATOR": "a",
+        "SUBFIELDDATA": "0735615683"
+      }
+    },
+    {
+      "HEADER": {
+        "TAG": "AUTHOR",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "100",
+        "INDICATOR1": "1",
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": [
+        {
+          "SUBFIELDINDICATOR": "a",
+          "SUBFIELDDATA": "Reynolds-Haertle, Robin A.,"
+        },
+        {
+          "SUBFIELDINDICATOR": "d",
+          "SUBFIELDDATA": "1959-"
+        }
+      ]
+    },
+    {
+      "HEADER": {
+        "TAG": "TITLE",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "245",
+        "INDICATOR1": "1",
+        "INDICATOR2": "0"
+      },
+      "MARCSUBFLD": [
+        {
+          "SUBFIELDINDICATOR": "a",
+          "SUBFIELDDATA": "OOP with Microsoft Visual Basic .NET and Microsoft Visual C# .NET :"
+        },
+        {
+          "SUBFIELDINDICATOR": "b",
+          "SUBFIELDDATA": "step by step /"
+        },
+        {
+          "SUBFIELDINDICATOR": "c",
+          "SUBFIELDDATA": "Robin A. Reynolds-Haertle"
+        }
+      ]
+    },
+    {
+      "HEADER": {
+        "TAG": "IMPRINT",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "260",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": [
+        {
+          "SUBFIELDINDICATOR": "a",
+          "SUBFIELDDATA": "Redmond (Wash.) :"
+        },
+        {
+          "SUBFIELDINDICATOR": "b",
+          "SUBFIELDDATA": "Microsoft Press,"
+        },
+        {
+          "SUBFIELDINDICATOR": "c",
+          "SUBFIELDDATA": "2001"
+        }
+      ]
+    },
+    {
+      "HEADER": {
+        "TAG": "DESCRIPT",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "300",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": [
+        {
+          "SUBFIELDINDICATOR": "a",
+          "SUBFIELDDATA": "XVIII, 393. lk. :"
+        },
+        {
+          "SUBFIELDINDICATOR": "b",
+          "SUBFIELDDATA": "ill. +"
+        },
+        {
+          "SUBFIELDINDICATOR": "e",
+          "SUBFIELDDATA": "1 CD-ROM"
+        }
+      ]
+    },
+    {
+      "HEADER": {
+        "TAG": "NOTE",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "504",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": {
+        "SUBFIELDINDICATOR": "a",
+        "SUBFIELDDATA": "Sisaldab bibliograafiat. - Register lk. 379-393"
+      }
+    },
+    {
+      "HEADER": {
+        "TAG": "SUBJECT",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "692",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": {
+        "SUBFIELDINDICATOR": "a",
+        "SUBFIELDDATA": "objektorienteeritud programmeerimine"
+      }
+    },
+    {
+      "HEADER": {
+        "TAG": "SUBJECT",
+        "SEQUENCENUM": "1"
+      },
+      "MARCINFO": {
+        "MARCTAG": "692",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": {
+        "SUBFIELDINDICATOR": "a",
+        "SUBFIELDDATA": "Visual Basic (tarkvara)"
+      }
+    },
+    {
+      "HEADER": {
+        "TAG": "SUBJECT",
+        "SEQUENCENUM": "2"
+      },
+      "MARCINFO": {
+        "MARCTAG": "692",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": {
+        "SUBFIELDINDICATOR": "a",
+        "SUBFIELDDATA": "Basic (programmeerimiskeel)"
+      }
+    },
+    {
+      "HEADER": {
+        "TAG": "MARC",
+        "SEQUENCENUM": "0"
+      },
+      "MARCINFO": {
+        "MARCTAG": "007",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCFIXDATA": "co |g|||||||||"
+    },
+    {
+      "HEADER": {
+        "TAG": "MARC",
+        "SEQUENCENUM": "1"
+      },
+      "MARCINFO": {
+        "MARCTAG": "008",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCFIXDATA": "050419s2001 xxua | |||||||| 0|eng cnam4i"
+    },
+    {
+      "HEADER": {
+        "TAG": "MARC",
+        "SEQUENCENUM": "2"
+      },
+      "MARCINFO": {
+        "MARCTAG": "040",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": [
+        {
+          "SUBFIELDINDICATOR": "a",
+          "SUBFIELDDATA": "ErTUR"
+        },
+        {
+          "SUBFIELDINDICATOR": "b",
+          "SUBFIELDDATA": "est"
+        },
+        {
+          "SUBFIELDINDICATOR": "c",
+          "SUBFIELDDATA": "ErTUR"
+        }
+      ]
+    },
+    {
+      "HEADER": {
+        "TAG": "MARC",
+        "SEQUENCENUM": "3"
+      },
+      "MARCINFO": {
+        "MARCTAG": "035",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": {
+        "SUBFIELDINDICATOR": "a",
+        "SUBFIELDDATA": ".b17186043 (Tartu)"
+      }
+    },
+    {
+      "HEADER": {
+        "TAG": "MARC",
+        "SEQUENCENUM": "4"
+      },
+      "MARCINFO": {
+        "MARCTAG": "951",
+        "INDICATOR1": [],
+        "INDICATOR2": []
+      },
+      "MARCSUBFLD": {
+        "SUBFIELDINDICATOR": "a",
+        "SUBFIELDDATA": "yvmat koskel"
+      }
+    }
+  ]
+}
