@@ -1,0 +1,36 @@
+package com.oop.library.functionality.search;
+
+import com.oop.library.models.Book;
+
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+
+public class Catalog implements Search {
+    private HashMap<String, List<Book>> bookTitles;
+    private HashMap<String, List<Book>> bookAuthors;
+    private HashMap<String, List<Book>> bookSubjects;
+    private HashMap<String, List<Book>> bookPublicationDates;
+
+
+
+    @Override
+    public List<Book> byTitle(String title) {
+        return bookTitles.get(title);
+    }
+
+    @Override
+    public List<Book> byAuthor(String author) {
+        return bookAuthors.get(author);
+    }
+
+    @Override
+    public List<Book> bySubject(String subject) {
+        return bookSubjects.get(subject);
+    }
+
+    @Override
+    public List<Book> byPubDate(Date publishDate) {
+        return bookPublicationDates.get(publishDate.toString());
+    }
+}
